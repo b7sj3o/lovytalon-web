@@ -1,2 +1,3 @@
-// Замініть на username вашого Telegram-бота (без @)
-export const BOT_USERNAME = 'YOUR_BOT_USERNAME'
+// Username бота (без @) та опційний start-параметр
+export const BOT_USERNAME = 'LovyTalonBot'
+export const BOT_START_PARAM = 'd106acdc5d'
